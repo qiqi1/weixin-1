@@ -1,9 +1,0 @@
-{
-    "name": "weixin",
-    "version": "0.0.1",
-    "main": "main.js",
-    "scripts": {
-        "start": "/usr/electron-v1.7.10-linux-x64/electron .",
-        "build": "electron-packager ./ --linux --electron-version=1.7.10"
-    }
-}
