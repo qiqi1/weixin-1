@@ -1,12 +1,11 @@
 const electron = require('electron'), { app } = electron
 
 const new_window = () => {
-    // electron.Menu.setApplicationMenu(null)    
+    // electron.Menu.setApplicationMenu({null})
     let mainWindow = new electron.BrowserWindow({
         width: 1000, height: 700, frame: false, transparent: true
     })
     mainWindow.on('closed', () => { mainWindow = null })
-    // mainWindow.loadURL("https://wx.qq.com")
     mainWindow.loadURL(`file://${__dirname}/index.html`)
     win_event(mainWindow)
 }
