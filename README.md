@@ -26,10 +26,11 @@ sh install
 
 ![](https://github.com/yan-xz/weixin/blob/master/img/wx-1.png)
 ![](https://github.com/yan-xz/weixin/blob/master/img/wx-2.png)
-![](https://github.com/yan-xz/weixin/blob/master/img/wx-3.png)
 
 <br>
 
 - 学习交流群（前端，后端，Linux，数据库）
 
-![](https://github.com/yan-xz/weixin/blob/master/img/qrcode.png)
+![](https://github.com/yan-xz/weixin/blob/master/img/qrcode.jpg)
+
+- 609790518
