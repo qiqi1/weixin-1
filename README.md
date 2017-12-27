@@ -5,17 +5,19 @@
 
 <br>
 
-![]()
-![]()
-![]()
+![](https://github.com/yan-xz/weixin/blob/master/img/wx-1.png)
+![](https://github.com/yan-xz/weixin/blob/master/img/wx-2.png)
+![](https://github.com/yan-xz/weixin/blob/master/img/wx-3.png)
 
 ## GNOME桌面环境安装
 
 ```sh
-# 进入项目目录
-cd weixin
+# 1.下载项目
+wget https://github.com/yan-xz/weixin/archive/master.zip
+# 2.解压进入项目目录
+unzip master.zip;cd weixin-master
 
-# 获取权限
+# 3.获取权限
 sudo su
 
 # 安装
