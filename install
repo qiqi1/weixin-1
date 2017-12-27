@@ -1,0 +1,16 @@
+#!/bin/bash
+
+echo "准备中..."
+tar -zxf dist.tar.gz
+cp -r dist/weixin-linux-x64 /usr/local
+rm -rf dist
+
+echo """[Desktop Entry]
+Name = weixin
+Exec=/usr/local/weixin-linux-x64/weixin
+Icon=/usr/local/weixin-linux-x64/weixin.png
+Terminal=false
+Type=Application
+""" > /usr/share/applications/weixin.desktop
+
+echo "安装结束"

@@ -24,14 +24,3 @@ const win_event = w => {
 
 app.on("ready", new_window)
 app.on('window-all-closed', () => { app.quit() })
-/*
-{
-    "name": "app",
-    "version": "0.0.1",
-    "main": "main.js",
-    "scripts": {
-        "start": "C:/electron/electron.exe .",
-        "build": "electron-packager ./ --win --electron-version=1.7.10 --icon=app.ico"
-    }
-}
-*/

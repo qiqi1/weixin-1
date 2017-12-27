@@ -3,14 +3,12 @@
     "version": "1.0.0",
     "main": "src/main.js",
     "scripts": {
-        "start": "/usr/electron-v1.7.10-linux-x64/electron .",
-        "installer": "npm i --save-dev electron-installer-windows electron-installer-debian electron-installer-redhat",
-        "build": "electron-packager . --linux --electron-version=1.7.10 --out dist/",
+        "start": "electron .",
+        "package": "electron-packager . --linux --electron-version=1.7.10 --out dist/",
         "debian": "electron-installer-debian --src dist/weixin-linux-x64/ --dest dist/installers/ --arch amd64"
     },
     "devDependencies": {
-        "electron-installer-debian": "^0.7.1",
-        "electron-installer-redhat": "^0.5.0",
-        "electron-installer-windows": "^0.2.0"
+        "electron-installer-debian": "",
+        "electron-installer-windows": ""
     }
 }
