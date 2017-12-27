@@ -29,8 +29,9 @@ sh install
 
 <br>
 
-- 学习交流群（前端，后端，Linux，数据库）
+### 学习交流群（前端，后端，Linux，数据库）
 
-![](https://github.com/yan-xz/weixin/blob/master/img/qrcode.jpg)
+- QQ:609790518
 
-- 609790518
+![](https://github.com/yan-xz/weixin/blob/master/img/qrcode.png)
+
