@@ -29,7 +29,7 @@ sh install
 
 <br>
 
-### 学习交流群（前端，后端，Linux，数据库）
+### 学习交流群（ 客户端(前端)，服务器(后端)，GNU/Linux，SQL/NoSQL ）
 
 - QQ:609790518
 
