@@ -26,12 +26,3 @@ sh install
 
 ![](https://github.com/yan-xz/weixin/blob/master/img/wx-1.png)
 ![](https://github.com/yan-xz/weixin/blob/master/img/wx-2.png)
-
-<br>
-
-### 学习交流群（ 客户端(前端)，服务器(后端)，GNU/Linux，SQL/NoSQL ）
-
-- QQ:609790518
-
-![](https://github.com/yan-xz/weixin/blob/master/img/qrcode.png)
-
